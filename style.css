@@ -1,0 +1,37 @@
+
+
+.mainMenu{
+    background-color: red;
+    width: 130px;
+    height: 50px;
+    margin: 20px 20px 0px 20px;
+    padding: 20px 400px 0px 400px  ;
+}
+.header{
+    background-color: rebeccapurple;
+    width: 130px;
+    height: 100px;
+    margin: 0px 20px 0px 20px;
+    padding: 50px 400px 0px 400px  ;
+}
+.body{
+    background-color: grey;
+    width: 930px;
+    height: 600px;
+    margin: 0px 20px 0px 20px;
+
+}
+.contect{
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    padding: 200px;
+}
+
+.footer{
+    background-color: orange;
+    width: 130px;
+    height: 50px;
+    margin: 0px 20px 20px 20px;
+    padding: 20px 400px 0px 400px  ;
+}
